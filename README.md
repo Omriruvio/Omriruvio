@@ -76,7 +76,7 @@ Visit [my website](https://shawncharles.com) for more information!
           <img src="./cybergames-demo.gif" width="100%" alt="Cybergames home page"/>
         </a>
       <br />
-        <p align="left">
+        <p align="center">
   <a href="https://github.com/Omriruvio/CyberGames2020" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
@@ -92,7 +92,7 @@ Visit [my website](https://shawncharles.com) for more information!
         <a target="_blank" href="https://omriruvio.github.io/Hangman/">
           <img src="./hangman-demo.gif" width="100%" alt="Hangman mini game"/>
         </a>
-        <p align="left">
+        <p align="center">
           
   <a href="https://github.com/Omriruvio/Hangman" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
