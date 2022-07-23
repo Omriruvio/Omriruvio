@@ -19,11 +19,11 @@
 
 🧑‍💻 Co-Founder/CEO & Full-Stack Software Engineer @ CyberGames.
 
-📫 Reach me on twitter [@omriruvio](www.twitter.com/omriruvio).
+📫 Reach me on twitter [@omriruvio](omriruvio.com/twitter).
 
-💼 Contact me on [linkedin](www.linkedin.com/in/omri-ruvio).
+💼 Contact me on [linkedin](omriruvio.com/linkedin).
 
-Visit [my website](https://shawncharles.com) for more information!
+Visit [my website](https://omriruvio.com) for more information!
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -128,10 +128,10 @@ Visit [my website](https://shawncharles.com) for more information!
   <a href="https://omriruvio.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/omri-ruvio" target="_blank">
+  <a href="omriruvio.com/linkedin" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/omriruvio" target="_blank">
+  <a href="omriruvio.com/twitter" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://omriruvio.com/resume" target="_blank">
