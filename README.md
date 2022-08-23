@@ -106,8 +106,8 @@ Visit [my website](https://omriruvio.com) for more information!
     </td>
   </tr>
 
-  <tr>
-    <!-- <td width="50%" valign="top">
+  <!-- <tr>
+    <td width="50%" valign="top">
       <h3 align="center">Hydroponics</h3>
       <br />
         <a target="_blank" href="https://hydroponics-frontend.vercel.app">
@@ -123,8 +123,8 @@ Visit [my website](https://omriruvio.com) for more information!
   </a>
       </p>
         <p>E2E Application taking Whatsapp provided user input, parsing & storing crop data, and providing both Whatsapp based outputs & web based dashboards. <strong>Built with React, Next.js, Node.js, MongoDB & Twilio</strong></p>
-  </td>  -->
-  <!-- <td width="50%" valign="top">
+  </td> 
+  <td width="50%" valign="top">
   <h3 align="center">Hangman</h3>
     <br />
     <a target="_blank" href="https://omriruvio.github.io/Hangman/">
@@ -139,9 +139,9 @@ Visit [my website](https://omriruvio.com) for more information!
   </a>
     </p>
       <p>The famous word guessing game, <strong>Built with HTML, CSS, JS, anime.js, jquery and bootstrap libraries.</strong> </p>
-  </td>  -->
+  </td> 
   
-  </tr>
+  </tr> -->
 </table>
 
 <h1 align="center">Technologies</h1>
