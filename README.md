@@ -30,6 +30,23 @@ Visit [my website](https://omriruvio.com) for more information!
   
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Hydroponics</h3>
+      <br />
+        <a target="_blank" href="https://hydroponics-frontend.vercel.app">
+          <img src="./hydroponics-dashboard-demo.gif" width="100%" alt="Hydroponics user dashboards"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/Omriruvio/hydroponics-frontend" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://hydroponics-frontend.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>E2E Application taking Whatsapp provided user input, parsing & storing crop data, and providing both Whatsapp based outputs & web based dashboards. <strong>Built with React, Next.js, Node.js, MongoDB & Twilio</strong></p>
+  </td>
+    <td width="50%" valign="top">
       <h3 align="center">News Explorer</h3>
         <br />
         <a target="_blank" href="http://news.omriruvio.com">
@@ -47,24 +64,6 @@ Visit [my website](https://omriruvio.com) for more information!
       </p>
         <p>Search, browse and sign up to bookmark your favorite news articles for later reading.
         <strong>Web app built with React, Node & MongoDB.</strong></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Around the US</h3>
-        <br />
-      <a target="_blank" href="https://around.omriruvio.com/">
-            <img src="./around-demo.gif" width="100%"  alt="around the us"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/Omriruvio/react-around-api-full/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://around.omriruvio.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p>Instagram-like image sharing web application. User management system, API powered server side persistence, profile editing, liking, adding and deleting posts functionalities. <strong>Web App built with React, Node & MongoDB.</strong></p>
     </td>
   </tr>
   
@@ -86,23 +85,62 @@ Visit [my website](https://omriruvio.com) for more information!
       </p>
         <p>A website made for CyberGames startup, introducing a cyber security training platform based on an online multiplayer game. <strong>Built with vanilla HTML, CSS & JS.</strong></p>
     </td>
+   </td>
     <td width="50%" valign="top">
-      <h3 align="center">Hangman</h3>
+      <h3 align="center">Around the US</h3>
         <br />
-        <a target="_blank" href="https://omriruvio.github.io/Hangman/">
-          <img src="./hangman-demo.gif" width="100%" alt="Hangman mini game"/>
+      <a target="_blank" href="https://around.omriruvio.com/">
+            <img src="./around-demo.gif" width="100%"  alt="around the us"/>
         </a>
+        <br />
         <p align="center">
           
+  <a href="https://github.com/Omriruvio/react-around-api-full/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://around.omriruvio.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>Instagram-like image sharing web application. User management system, API powered server side persistence, profile editing, liking, adding and deleting posts functionalities. <strong>Web App built with React, Node & MongoDB.</strong></p>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- <td width="50%" valign="top">
+      <h3 align="center">Hydroponics</h3>
+      <br />
+        <a target="_blank" href="https://hydroponics-frontend.vercel.app">
+          <img src="./hydroponics-dashboard-demo.gif" width="100%" alt="Hydroponics user dashboards"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/Omriruvio/hydroponics-frontend" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://hydroponics-frontend.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>E2E Application taking Whatsapp provided user input, parsing & storing crop data, and providing both Whatsapp based outputs & web based dashboards. <strong>Built with React, Next.js, Node.js, MongoDB & Twilio</strong></p>
+  </td>  -->
+  <!-- <td width="50%" valign="top">
+  <h3 align="center">Hangman</h3>
+    <br />
+    <a target="_blank" href="https://omriruvio.github.io/Hangman/">
+      <img src="./hangman-demo.gif" width="100%" alt="Hangman mini game"/>
+    </a>
+    <p align="center">
   <a href="https://github.com/Omriruvio/Hangman" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://omriruvio.github.io/Hangman/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
-      </p>
-        <p>The famous word guessing game, <strong>Built with HTML, CSS, JS, anime.js, jquery and bootstrap libraries.</strong> </p>
-    </td>
+    </p>
+      <p>The famous word guessing game, <strong>Built with HTML, CSS, JS, anime.js, jquery and bootstrap libraries.</strong> </p>
+  </td>  -->
+  
   </tr>
 </table>
 
