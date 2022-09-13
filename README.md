@@ -32,7 +32,7 @@ Visit [my website](https://omriruvio.com) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Hydroponics</h3>
       <br />
-        <a target="_blank" href="https://hydroponics-frontend.vercel.app">
+        <a target="_blank" href="https://dashboard.hydroponics.network">
           <img src="./hydroponics-dashboard-demo.gif" width="100%" alt="Hydroponics user dashboards"/>
         </a>
       <br />
@@ -40,7 +40,7 @@ Visit [my website](https://omriruvio.com) for more information!
   <a href="https://github.com/Omriruvio/hydroponics-frontend" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://hydroponics-frontend.vercel.app" target="_blank">
+  <a href="https://dashboard.hydroponics.network" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
